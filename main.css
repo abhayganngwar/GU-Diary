@@ -1,0 +1,425 @@
+
+
+<!doctype html>
+<html>
+<head>
+<title>Page Not Found | Galgotias University</title>
+<meta name="description" content="The page you were looking for have been moved or deleted." />
+<meta charset="utf-8">
+<meta name="copyright" content="Galgotias University" />
+<meta name="author" content="Galgotias University" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="rating" content="safe for kids" />
+<meta name="googlebot" content=" noindex, follow " />
+<meta name="bingbot" content=" noindex, follow " />
+<meta name="reply-to" content="admissions@galgotiasuniversity.edu.in" />
+<meta name="allow-search" content="yes" />
+<meta name="revisit-after" content="daily" />
+<meta name="distribution" content="global" />
+<meta name="expires" content="never" />
+<meta http-equiv="content-language" content="english" />
+<link rel="shortcut icon" href="favicon.ico" />
+<link href="/style.css" rel="stylesheet" type="text/css">
+
+<style>
+	.backpage{
+		background-color: #A40000;
+		text-align: center;
+		padding: 0.8% 2.0%;
+		text-decoration: none;
+		border: 1px solid #A40000;
+		white-space: nowrap;
+		-webkit-transition: 0.8s;
+		transition: 0.8s;
+		font-size: 12px;
+		color: #fff;
+		font-family: 'open_sansregular';
+		text-transform: uppercase;
+		width: 140px;
+		margin: auto;
+	}
+	
+		@media only screen and (max-width: 767px) {
+		  .cd-top {
+			right: 20px;
+			bottom: 20px;
+		  }
+		   .logo{
+		   width: 300px;
+			margin:auto;
+		  }
+		}
+</style>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable = no" name="viewport" />
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script src="/js/jquery.nicescroll.min.js"></script>
+<script type="text/javascript" src="/js/tickerme.min.js"></script>
+<script type="text/javascript" src="/js/cycle.js"></script>
+<link rel="stylesheet" href="/css/jquery.treeview.css" />
+<script src="/js/jquery.treeview.js" type="text/javascript"></script>
+<script src="/js/superfish.js"></script>
+<script src="/js/easyaspie.min.js"></script>
+<link rel="stylesheet" href="/css/main.css"/>
+<script type="text/javascript" src="/js/csspopup.js"></script>
+<script type="text/javascript">
+    $(document).ready(function() {
+        $('nav').easyPie();
+    });    
+    </script>
+
+<link rel="stylesheet" href="/css/flexslider.css">
+<script>
+$(document).ready(
+
+  function() { 
+
+    $(".featherlight-content").niceScroll({cursorcolor:"#00F"});
+
+  }
+
+);
+</script>
+<script type="text/javascript">
+	$(function(){
+		$('#ticker').tickerme();
+	});
+	</script>
+
+<script>
+  jQuery(document).ready(function($){
+    // browser window scroll (in pixels) after which the "back to top" link is shown
+    var offset = 300,
+        //browser window scroll (in pixels) after which the "back to top" link opacity is reduced
+        offset_opacity = 800,
+        //duration of the top scrolling animation (in ms)
+        scroll_top_duration = 700,
+        //grab the "back to top" link
+        $back_to_top = $('.cd-top');
+
+    //hide or show the "back to top" link
+    $(window).scroll(function(){
+        ( $(this).scrollTop() > offset ) ? $back_to_top.addClass('cd-is-visible') : $back_to_top.removeClass('cd-is-visible cd-fade-out');
+        if( $(this).scrollTop() > offset_opacity ) { 
+            $back_to_top.addClass('cd-fade-out');
+        }
+    });
+
+    //smooth scroll to top
+    $back_to_top.on('click', function(event){
+        event.preventDefault();
+        $('body,html').animate({
+            scrollTop: 0 ,
+            }, scroll_top_duration
+        );
+    });
+
+});
+ </script>
+
+
+ <style>
+		.cd-top {
+	  display: inline-block;
+	  height: 45px;
+	  width: 45px;
+	  position: fixed;
+	  bottom: 40px;
+	  right: 10px;
+	  box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+	  /* image replacement properties */
+	  overflow: hidden;
+	  text-indent: 100%;
+	  white-space: nowrap;
+	  background: url(images/cycle.png) no-repeat center 50%;
+	  visibility: hidden;
+	  opacity: 0;
+	  -webkit-transition: opacity .3s 0s, visibility 0s .3s;
+	  -moz-transition: opacity .3s 0s, visibility 0s .3s;
+	  transition: opacity .3s 0s, visibility 0s .3s;
+	}
+	.cd-top.cd-is-visible, .cd-top.cd-fade-out, .no-touch .cd-top:hover {
+	  -webkit-transition: opacity .3s 0s, visibility 0s 0s;
+	  -moz-transition: opacity .3s 0s, visibility 0s 0s;
+	  transition: opacity .3s 0s, visibility 0s 0s;
+	}
+	.cd-top.cd-is-visible {
+	  /* the button becomes visible */
+	  visibility: visible;
+	  opacity: 1;
+	  z-index: 9999999;
+	}
+
+	.cd-top.cd-fade-out {
+	  /* if the user keeps scrolling down, the button is out of focus and becomes less visible */
+	  opacity: 1;
+		z-index: 999999;
+	}
+	.no-touch .cd-top:hover {
+	  opacity: 1;
+	}
+	@media only screen and (min-width: 768px) {
+	  .cd-top {
+		right: 20px;
+		bottom: 20px;
+	  }
+	}
+	@media only screen and (min-width: 1024px) {
+	  .cd-top {
+		height: 60px;
+		width: 60px;
+		right: 30px;
+		bottom: 30px;
+	  }
+	}
+
+    </style>
+</head><body>
+
+<div class="main">
+	<p>&nbsp;</p>
+	<div class="logo" align="center">
+		<a href="/index.asp"><img src="/images/logo.jpg" alt=""/></a>
+	</div>
+	<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+	<p align="center" style="font-size:32px;">Oops - 404</p>
+	<p>&nbsp;</p>
+	<p align="center" style="font-size:32px;">Sorry the page youÂ´re looking for doesn't seem to exist.</p>
+	<p>&nbsp;</p>
+	<p align="center" class="backpage"><a href="/index.asp" style="color:#fff;">Go to Home Page</a></p>
+	<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;
+	
+	<p>&nbsp;</p>
+</div>
+<div class="footerlinks">
+	<div class="main">
+    	<ul>
+		    <!--<li><a href="pdfs/project-and-innovation-competition.pdf" target="_blank">Project and Innovation Competition (PIC-2016) at GU</a></li>-->
+        	<li><a href="co-curricular-activities.asp">Beyond Academics</a></li>
+            <li><a href="student-development.asp">Development Programmes</a></li>
+            <!--<li><a href="research.asp">Research</a></li>-->
+            <li><a href="careers.asp">Careers</a></li>
+            <!--<li><a href="javascript:;">Student Hand Book</a></li>-->
+           <!-- <li><a href="javascript:;">Schools</a></li>
+		    <li><a href="pdfs/anti_ragging_cell.pdf" target="_blank">Anti Ragging Cell</a></li>-->
+		 <!--  <li><a href="NIRF.asp">NIRF</a></li>-->
+            <li><a href="pdfs/Anti-Ragging-Committe-Galgotias-University-Final-2019.pdf" target="_blank">Anti Ragging Cell</a></li>
+			<li><a href="https://dhruvgalgotiablogs.wordpress.com/" target="_blank">Blogs</a></li> 
+            <!--<li><a href="news-events.asp">Media</a></li>-->
+            <li><a href="infrastructure-campus-overview.asp">Infrastructure</a></li>
+			<li><a href="https://www.galgotiasuniversityalumni.com/" rel="No-Follow" target="_blank">Alumni Portal</a></li>
+			 <li><a href="Swayam.asp">Swayam</a></li>
+			 <li><a href="naac.asp">NAAC</a></li>
+			  <li><a href="ARIIA-2021.asp" target="_blank">ARIIA-2021</a></li>
+			  <li><a href="digital-learning.asp">Digital Learning</a></li>
+           <!-- <li><a href="pdfs/ARI-U-0643.pdf" target="_blank">ARIIA-2021</a></li>
+		   <li><a href="https://galgotias.almaconnect.com/" rel="No-Follow" target="_blank">Alumni</a></li>-->
+            <!--<li><a href="under-graduate-programs.asp">Programs</a></li>
+            <li><a href="admission-procedure.asp">Admissions</a></li>
+            <li><a href="corporate-tie-ups.asp">Corporate tie Up</a></li>-->
+			<!--<li><a href="http://theresearcherjournal.org" rel="nofollow" target="_blank">The Researcher</a></li>-->
+			
+      </ul>
+    	<div class="clear"></div>
+    </div>
+</div>
+<div class="main">
+
+    <div class="footerbox">
+    	<h1>Quick Links</h1>
+        <ul>
+		<li><a href="https://nad.ndml.in/" target="_blank">National Academic Depository</a></li>
+        <li><a href="about-awards-rankings.asp">Rankings</a></li>
+        <li><a href="gallery.asp">Photo Gallery</a></li>
+		<!--<li><a href="pdfs/holiday-list-2021.pdf" target="_blank">List of Holidays</a></li>-->
+        <!--<li><a href="https://www.google.com/maps/@28.3626822,77.5377363,2a,73.7y,96.17h,90t/data=!3m6!1e1!3m4!1sXgQy-IRXZusAAAALCpbR2Q!2e0!7i13312!8i6656" target="_blank">Campus Tour</a></li>-->
+       <!-- <li><a href="javascript:;">Discover Galgotias University</a></li>
+	    <li><a href="g-quasar-brochure.asp">G-Post</a></li>-->
+       <li><a href="g-quasar-brochure.asp">G-Post</a></li>
+        <li><a href="download-prospectus.asp">Downloads</a></li>
+        <li><a href="t-student-testimonials.asp">Testimonials</a></li>
+        <li><a href="academic-calendar.asp">Academic Calendar</a></li> 
+        <li><a href="anti-ragging-policy.asp">Anti-Ragging Policy</a></li>  
+		 <li><a href="forms.asp">Forms</a></li>
+		 <li><a href="pdfs/Sports-Calendar-2021-22.pdf" target="_blank">Sports Calendar</a></li>
+		
+		 
+<!--<li><a href="academic-anti-ragging-policy.asp">Anti-ragging Policy</a></li>-->		
+        </ul>
+    </div>
+    <div class="footerbox">
+    	<h1>Admissions</h1>
+         <ul>
+		 <!--<li><a href="programs-finder.asp">Programs Finder</a></li>-->
+            <li><a href="admission-procedure.asp">Admission Procedure</a></li>
+            <li><a href="eligibility.asp">Eligibility</a></li>
+            <li><a href="fee-structure.asp">Fee Structure</a></li>
+            <li><a href="ph-d-admission.asp">Ph.D Admission</a></li>
+            <li><a href="hostel.asp">Hostel</a></li>
+            <li><a href="scholarships.asp">Scholarships</a></li>
+			<li><a href="admission-education-loan-assistance.asp">Admission & Education Loan Assistance</a></li>
+            
+			<li><a href="pdfs/sports-scholarship-GU.pdf" target="_blank">Sports Quota Scholarship</a></li>
+			<li><a href="no-donation-policy.asp">No Donation Policy</a></li>
+           <!-- <li><a href="admission-procedure.asp">Admission Procedure</a></li>
+            <li><a href="eligibility.asp">Eligibilty</a></li>
+            <li><a href="fee-structure.asp">Fee Structure</a></li>
+            <li><a href="admission-education-loan-assistance.asp">Education Loan</a></li>
+            <li><a href="scholarships.asp">Scholarships</a></li>
+            <li><a href="no-donation-policy.asp">No Donation Policy</a></li>-->
+         </ul>
+    </div>
+    <div class="footerbox">
+    	<h1>Programs</h1>
+         <ul>
+            <li><a href="under-graduate-programs.asp">Undergraduate Programs</a></li>
+            <li><a href="post-graduate-programs.asp">Postgraduate Programs</a></li>
+            <li><a href="integrated-programs.asp">Integrated Programs</a></li>
+            <li><a href="diploma-programs.asp">Diploma Programs</a></li>
+            <li><a href="doctoral-programs.asp">Doctoral Programs</a></li>
+			<li><a href="ARIIA-2021.asp" target="_blank"><img src="images/aria-logo.jpg" alt="" align="left" valign="left"/></a></li>
+         </ul>
+    </div>
+    
+      <div class="footerbox">           
+    	<h1>Media</h1>       
+         <ul>
+            <li><a href="news-events.asp">Media</a></li>
+            <li><a href="events.asp">Events</a></li>
+            <!--<li><a href="javascript:;">Unifest</a></li>-->
+           <!-- <li><a href="galgotias-metacognition-tech-fest.asp">Metacognition</a></li>-->
+            <li><a href="student-sports-teams.asp">Sports Fest</a></li>
+            <li><a href="about-student-clubs.asp">Student Clubs</a></li>
+         </ul>
+    </div>
+    
+    
+    
+    <div class="footerbox connectc" style="margin-right:0px;">
+    	<!--<h1>Connect With Us</h1>
+        <ul class="social">
+		<li><a href="https://www.facebook.com/business/help/402791146561655?id=1205376682832142" rel="nofollow" target="_blank" class="facebook">&nbsp;</a></li>
+        	<li><a href="https://www.facebook.com/GalgotiasUniversity/" rel="nofollow" target="_blank" class="facebook">&nbsp;</a></li>
+            <li><a href="https://twitter.com/GalgotiasUni" rel="nofollow" target="_blank" class="twitter">&nbsp;</a></li>
+            <li><a href="https://plus.google.com/+GalgotiasUni" rel="nofollow" class="googleplus" target="_blank"></a></li> 
+            <li><a href="https://www.youtube.com/channel/UCMyvNbVCFFVbj9SlWjQ0-YA" rel="nofollow" target="_blank" class="youtube">&nbsp;</a></li>
+            <li><a href="https://in.pinterest.com/Galgotiasin/" rel="nofollow" class="pintrest" target="_blank"></a></li> 
+             <li><a href="https://www.instagram.com/galgotias_university" rel="nofollow" class="pintrest" target="_blank"><img src="/images/icon-insta.png" alt="Arrow" style="margin-bottom:0px;" /></a></li>   
+        </ul>
+        <div class="clear"></div>-->
+        <h1>Contact Us</h1>
+        <p>Plot No. 2, Sector-17A, Yamuna Expressway, <br />Greater Noida, Gautam buddh Nagar,<br /> Uttar Pradesh, India Contact no. 0120â€“4370000 ,<br>+91 9582847072 , 9810162221<br />
+         
+		Email: <a href="mailto:admissions@galgotiasuniversity.edu.in">admissions@galgotiasuniversity.edu.in</a><br/>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:registrar@galgotiasuniversity.edu.in">registrar@galgotiasuniversity.edu.in</a><br/>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:vcoffice@galgotiasuniversity.edu.in">vcoffice@galgotiasuniversity.edu.in</a></p>
+       <!-- <ul class="otherflinks">
+        	 <li><a href="terms-conditions.asp">Terms</a></li>
+             <li><a href="privacy-policy.asp">Privacy Policy</a></li>
+             <li><a href="disclaimer.asp">Disclaimer</a></li>
+             <li><a href="sitemap.asp">Sitemap</a></li>
+        </ul>-->
+		
+		
+		
+        <h1>Connect With Us</h1>
+        <ul class="social">
+        	<li><a href="https://www.facebook.com/GalgotiasUniversity/" rel="nofollow" target="_blank" class="facebook">&nbsp;</a></li>
+            <li><a href="https://twitter.com/GalgotiasUni" rel="nofollow" target="_blank" class="twitter">&nbsp;</a></li>
+            <li><a href="https://www.flickr.com/photos/galgotiasuniversity/  " rel="nofollow" class="googleplus" target="_blank"></a></li> 
+			<li><a href="http://www.youtube.com/c/GalgotiasUniversity_1 " rel="nofollow" target="_blank" class="youtube">&nbsp;</a></li>
+           <!-- <li><a href="https://www.youtube.com/channel/UCMyvNbVCFFVbj9SlWjQ0-YA" rel="nofollow" target="_blank" class="youtube">&nbsp;</a></li>
+		    <li><a href="https://in.pinterest.com/Galgotiasin/" rel="nofollow" class="pintrest" target="_blank"></a></li> -->
+            <li><a href="https://www.linkedin.com/in/galgotias-university-18544b190/" rel="nofollow" class="pintrest" target="_blank"></a></li> 
+            <li><a href="https://www.instagram.com/galgotias_university" rel="nofollow" class="instagram" target="_blank"></a></li>
+           <!-- <li><a href="https://galgotiasuniv.tumblr.com/" rel="nofollow" class="trumbler" target="_blank"></a></li>-->
+            
+                
+        </ul>
+        <div class="clear"></div>
+        <ul class="otherflinks">
+        	 <li><a href="terms-conditions.asp">Terms</a></li>
+             <li><a href="privacy-policy.asp">Privacy Policy</a></li>
+             <li><a href="disclaimer.asp">Disclaimer</a></li>
+             <li><a href="sitemap.asp">Sitemap</a></li>
+        </ul>
+        <div class="clear"></div>
+    </div>
+	<div class="clear"></div>
+</div>
+
+<div class="footerbtm">
+	<div class="main">
+    	<div class="left">Â© Copyright 2015, All Rights Reserved with Galgotias University</div>
+        <div class="right">Design & Development By: Cross Section</div>
+    	<div class="clear"></div>
+    </div>
+</div>
+<!--<a id="toTop" href="#"><img src="images/cycle.png"></a>-->
+<a href="#0" class="cd-top">Top</a>
+<script type="text/javascript">
+var s=document.createElement("script");
+        s.type="text/javascript"; s.async=true; s.src="https://widgets.nopaperforms.com/emwgts.js";
+        document.body.appendChild(s);
+
+</script>
+
+
+
+
+<!--<div class="npf_chatbots" data-w="0a34a3bebfd44e2eb3bb2b804dd2b6d9" style="display:none;"></div>
+
+<script type="text/javascript">    var s=document.createElement("script");    s.type="text/javascript";    s.async=true;    s.src="https://chatbot.nopaperforms.com/en-gb/backend/bots/niaachtbtscpt.js/2935f35478c4e2c3/0a34a3bebfd44e2eb3bb2b804dd2b6d9";    document.body.appendChild(s);</script>  -->              
+
+
+
+
+
+<!--Start of SuperBot Chat Script-->
+
+<script type="text/javascript"> 
+//var npf_d='https://admissions.galgotiasuniversity.edu.in'; var npf_c='293'; var npf_m='1'; var s=document.createElement("script"); s.type="text/javascript"; s.async=true; s.src="https://track.nopaperforms.com/js/tracker.js"; document.body.appendChild(s); </script> 
+<script type="text/javascript" async>
+//window.$superbot||(function(d,s){var sb=$superbot=function(c){sb._.push(c)},$=sb.s=d.createElement(s),e=d.getElementsByTagName(s)[0];sb.set=function(o){sb.set._.push(o)};sb._=[];sb.set._=[];$.async=!0;$.setAttribute("charset","utf-8");$.src="https://app.superbot.works/agent.js?a=kJR1rzq1zA&l=en";sb.t=+new Date;$.type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
+</script>
+<!--End of SuperBot Chat Script-->
+
+
+
+<!--<div class="enquiry-fixed clickform11"><img src="images/enquiry-heading-button.png" ></div>-->
+ 
+<script>	
+	var $affectedElements = $("p, span, a"); // Can be extended, ex. $("div, p, span.someClass")
+
+// Storing the original size in a data attribute so size can be reset
+$affectedElements.each( function(){
+  var $this = $(this);
+  $this.data("orig-size", $this.css("font-size") );
+});
+
+$("#btn-increase").click(function(){
+  changeFontSize(1);
+})
+
+$("#btn-decrease").click(function(){
+  changeFontSize(-1);
+})
+
+$("#btn-orig").click(function(){
+  $affectedElements.each( function(){
+        var $this = $(this);
+        $this.css( "font-size" , $this.data("orig-size") );
+   });
+})
+
+function changeFontSize(direction){
+    $affectedElements.each( function(){
+        var $this = $(this);
+        $this.css( "font-size" , parseInt($this.css("font-size"))+direction );
+    });
+}
+ </script>
+ 
+
+</body>
+</html>
